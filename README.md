@@ -1,4 +1,4 @@
-# Analytics
+# Crime-Prediction-Using-SAS-Enterprise-Miner
 Crime Prediction Using Chicago Crime Data
 
 OBJECTIVE:
